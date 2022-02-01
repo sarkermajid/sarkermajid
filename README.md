@@ -14,8 +14,8 @@
 <a href="https://linkedin.com/in/md-majidur-rahman-sarker-7383591a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-majidur-rahman-sarker-7383591a6/" height="30" width="40" /></a>
 <a href="https://twitter.com/sarkermajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarkermajid" height="30" width="40" /></a>
 <a href="https://instagram.com/sarker_majid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarker_majid" height="30" width="40" /></a>
-</p>
 <a href="https://codepen.io/sarkermajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sarkermajid" height="30" width="40" /></a>
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarkermajid)](https://github.com/anuraghazra/github-readme-stats)
