@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Digital Dimension IT 
 - 🌱 I’m currently learning Laravel 8 & React Js 
-- 📫 How to reach me: majidursarkar333@gmail.com 
+- 📫 How to reach me: sarkermajid21.bd@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
