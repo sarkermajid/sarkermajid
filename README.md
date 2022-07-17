@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Md. Majidur Rahman Sarker
-#### B. Sc in Computer Science & Engineering || Full Stack Web Developer || Laravel Developer || Node Js Developer
+#### B. Sc in CSE || Full Stack Web Developer || Laravel Developer || Node Js Developer
 ![Profile views](https://gpvc.arturio.dev/sarkermajid)
 
 <h3 align="left">Languages and Tools:</h3>
