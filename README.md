@@ -12,7 +12,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://scontent.fdac39-1.fna.fbcdn.net/v/t39.30808-6/310889410_636931757828931_7741425450184452639_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=jSmCYjVTaMAAX9grjbT&_nc_ht=scontent.fdac39-1.fna&oh=00_AT9hiH7EftHg4sRtQc55lb5xaH4Nmm5UlQNDkZ73qhA0Jw&oe=634CC508"  />
 </div>
 
