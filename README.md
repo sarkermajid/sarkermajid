@@ -2,9 +2,21 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sarkermajid.sarkermajid&"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarkermajid.sarkermajid&"  />
+</div>
 
 ###
+
+<img align="right" height="180" src="https://scontent.fdac39-1.fna.fbcdn.net/v/t39.30808-6/310889410_636931757828931_7741425450184452639_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=jSmCYjVTaMAAX9grjbT&_nc_ht=scontent.fdac39-1.fna&oh=00_AT9hiH7EftHg4sRtQc55lb5xaH4Nmm5UlQNDkZ73qhA0Jw&oe=634CC508"  />
+
+###
+
+<h1 align="center">B. Sc in Computer Science & Engineering || Full Stack Web Developer || Laravel Developer || WordPress Developer</h1>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sarkermajid" height="150" alt="stats graph"  />
@@ -52,10 +64,8 @@
 
 ###
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/sarkermajid/sarkermajid/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+</div>
 
 ###
