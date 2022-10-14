@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarkermajid.sarkermajid&left_color=darkgrey&left_text=profile views:"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarkermajid.sarkermajid&left_color=darkgrey"  />
 </div>
 
 ###
