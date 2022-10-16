@@ -26,7 +26,9 @@
 </div>
 
 ###
-
+<h3 align="center">Languages and Tools:</h3>
+<hr/>
+<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="32" width="44" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="32" width="44" alt="css3 logo"  />
@@ -51,7 +53,9 @@
 </div>
 
 ###
-
+<h3 align="center">Connect with me:</h3>
+<hr/>
+<br/>
 <div align="center">
   <a href="sarkermajid21.bd@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
