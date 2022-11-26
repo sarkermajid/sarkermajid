@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://scontent.fdac39-1.fna.fbcdn.net/v/t39.30808-6/310889410_636931757828931_7741425450184452639_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE7g2b36bYwNZ2KRY26Nso5SDb-inuWo_NINv6Ke5aj80CUX2jOrpYKbvWXu99VZmu1WPUrVr_ybSkkNCgZAfav&_nc_ohc=HAb7sTl5ur0AX_N8y85&_nc_ht=scontent.fdac39-1.fna&oh=00_AfCoE4v6BA39a4CZsoHtDNLYPimPR88ILY_HHW-g4Nce3Q&oe=63648008"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
